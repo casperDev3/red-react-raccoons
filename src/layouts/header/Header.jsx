@@ -13,7 +13,9 @@ const Header = () => {
             <li>
               <Link to="/converter">Converter</Link>
             </li>
-            <li>test</li>
+            <li>
+              <Link to="/jsx">JSX</Link>
+            </li>
             <li>test</li>
             <li>test</li>
             <li>test</li>
